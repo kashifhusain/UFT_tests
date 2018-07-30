@@ -1,0 +1,5 @@
+﻿Browser("Prestashop").Page("Prestashop").Link("Accessories").Click @@ hightlight id_;_Browser("Prestashop").Page("Prestashop").Link("Accessories")_;_script infofile_;_ZIP::ssf1.xml_;_
+Browser("Prestashop").Page("Accessories - Prestashop").Link("Add to cart").Click @@ hightlight id_;_Browser("Prestashop").Page("Accessories - Prestashop").Link("Add to cart")_;_script infofile_;_ZIP::ssf2.xml_;_
+Browser("Prestashop").Page("Accessories - Prestashop").Link("Cart").Click @@ hightlight id_;_Browser("Prestashop").Page("Accessories - Prestashop").Link("Cart")_;_script infofile_;_ZIP::ssf3.xml_;_
+Browser("Prestashop").Page("Prestashop_2").Link("Shure SE210 Sound-Isolating").Check CheckPoint("Shure SE210 Sound-Isolating Earphones for iPod and iPhone") @@ hightlight id_;_Browser("Prestashop").Page("Prestashop 2").Link("Shure SE210 Sound-Isolating")_;_script infofile_;_ZIP::ssf4.xml_;_
+Browser("Prestashop").Page("Prestashop_2").Link("Link").Click @@ hightlight id_;_Browser("Prestashop").Page("Prestashop 2").Link("Link")_;_script infofile_;_ZIP::ssf5.xml_;_

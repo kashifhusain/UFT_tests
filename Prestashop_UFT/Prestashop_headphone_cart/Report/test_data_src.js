@@ -1,0 +1,1 @@
+﻿var __testDataSource={items:[{dataFilePath:'Default.xls',dataFileFormat:'excel',dataFileFolder:'C:\\Users\\Administrator\\Documents\\Jenkins_tests\\Prestashop_UFT\\Prestashop_headphone_cart',namePairs:[]}]};
